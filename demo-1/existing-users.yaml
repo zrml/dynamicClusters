@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: existing-users
   namespace: default
-    data:
-      luca: staging
+data:
+  luca: staging
   
 
