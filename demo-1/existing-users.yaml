@@ -3,8 +3,6 @@ kind: ConfigMap
 metadata:
   name: existing-users
   namespace: default
-data:
-  ivonne: staging
   
   
 
