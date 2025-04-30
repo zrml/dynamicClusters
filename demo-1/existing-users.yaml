@@ -3,7 +3,4 @@ kind: ConfigMap
 metadata:
   name: existing-users
   namespace: default
-data:
-  luca: production
-  ivonne: staging
 
